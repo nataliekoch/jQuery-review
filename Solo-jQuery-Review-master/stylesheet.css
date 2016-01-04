@@ -1,0 +1,13 @@
+.content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.people {
+    padding: 10px;
+    border: black 1px solid;
+    align-content: center;
+    min-width: 225px;
+}
